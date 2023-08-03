@@ -6,11 +6,26 @@
 
 ### Desktop View
 
-![SpaceX Clone Desktop View](./img/screen.png)
+#### Homepage
+
+![SpaceX Clone Desktop View](./img/screen.jpg)
+
+#### Falcon-9 page
+
+![SpaceX Clone Desktop View](./img/falcon9.png)
+
+#### Falcon Heavy page
+
+![SpaceX Clone Desktop View](./img/falcon-heavy.png)
+
+#### Dragonpage
+
+![SpaceX Clone Desktop View](./img/dragon.png)
 
 ### Mobile View
+
 <p align="center">
-  <img src="./img/mobile.png" alt="SpaceX Clone Mobile View" width="300">
+  <img src="./img/mobile.jpg" alt="SpaceX Clone Mobile View" width="300">
 </p>
 
 ## Features
